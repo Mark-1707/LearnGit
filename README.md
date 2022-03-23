@@ -1,7 +1,7 @@
 # LearnGit
 
 
-# Used to chek the installed git version
+#### Used to chek the installed git version
 git --version
 
 # Config your github account
